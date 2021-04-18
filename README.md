@@ -1,4 +1,2 @@
 # dasar-python
-
-
-coba inisad
+Percobaan Kedua
